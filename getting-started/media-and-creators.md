@@ -8,7 +8,3 @@ Vocus
 
 Medium
 
-
-
-
-

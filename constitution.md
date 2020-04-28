@@ -10,8 +10,6 @@ description: The constitution of Republic of Liker Land
 
 Originally posted on [Medium](https://medium.com/likecoin/genesis-republic-of-liker-land-3903bd4d3bc6?source=collection_home---4------0-----------------------) on Nov 7 · 9 min read
 
-
-
 By the time this is published, Genesis block of LikeCoin chain has been produced. If that is not your language, try understand it this way: Republic of Liker Land was established on the cyberspace.
 
 This article introduces the elements and the mechanism of Liker Land, using as little technical jargon as possible. Developers are encouraged to check out our technical documentations or, better yet, our source codes which are open on [github](https://github.com/likecoin).
@@ -30,7 +28,7 @@ A citizen in _Republic of Liker Land_. Each _Liker_ has a unique _Liker ID_ to i
 
 ### Civic Liker <a id="75ea"></a>
 
-A _Liker_ who joins the USD5 monthly subscription service. _Civic Liker_ is essentially __a tax payer in _Liker Land_ and enjoys various benefits while at the same time supports creators.
+A _Liker_ who joins the USD5 monthly subscription service. _Civic Liker_ is essentially _\_a tax payer in \_Liker Land_ and enjoys various benefits while at the same time supports creators.
 
 ### Liker Land app <a id="2696"></a>
 
@@ -88,7 +86,7 @@ With _Liker Land_ being a community of content creators and lovers, appreciation
 
 In contrast to Like Button of Facebook and other social media, tapping a _LikeCoin button — clapping —_ provides the corresponding creators with tangible rewards. A content can be clapped by a _Liker_ 1–5 times to reflect the degree of appreciation. Each clap represents a vote for the content, helping the creator receive part of the **Creators Pool** allocated for that day.
 
-A _Civic Liker_ enjoys higher weighting for her claps, which other than the **Creators Pool** __also distributes all of her own monthly payment to creators on average. _LikeCoin button_ is like an assistant to _Likers,_ helping them micro reward creativity automatically with claps as a signal of appreciation.
+A _Civic Liker_ enjoys higher weighting for her claps, which other than the **Creators Pool** _\_also distributes all of her own monthly payment to creators on average. \_LikeCoin button_ is like an assistant to _Likers,_ helping them micro reward creativity automatically with claps as a signal of appreciation.
 
 ### Validating Transaction <a id="9e68"></a>
 
@@ -149,16 +147,9 @@ In case quorum is not reached or the proposal is vetoed, the 1 mil _LikeCoin_ de
 
 ## Future Development <a id="b575"></a>
 
-With the Genesis of _Liker Land_, _LikeCoin_ ecosystem __is entering a whole new paradigm. Services and governance of _Liker Land_ is designed in a way closely resembling a modern society, with some enhancements. With the governance by liquid democracy in place, every aspect of _Liker Land_ can be improved through proposals of change, including, most fundamentally, the constitution.
+With the Genesis of _Liker Land_, _LikeCoin_ ecosystem _\_is entering a whole new paradigm. Services and governance of \_Liker Land_ is designed in a way closely resembling a modern society, with some enhancements. With the governance by liquid democracy in place, every aspect of _Liker Land_ can be improved through proposals of change, including, most fundamentally, the constitution.
 
 As a result, the design and governance of the Republic will no longer be solely in the hands of core development team, who will nonetheless continue to dedicate their time and effort to _LikeCoin._ From now on, _Liker Land_ will be collectively owned and governed by her stakeholders, all _Likers_.
 
-Despite all the exciting development, it is just the Genesis.  
-
-
-
-
-
-
-### 
+Despite all the exciting development, it is just the Genesis.
 
