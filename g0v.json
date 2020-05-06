@@ -7,7 +7,7 @@
   "description": "Documentation for LikeCoin/Republic of Liker Land. Republic of Liker Land is a decentralized autonomous organization (DAO) among content creators and consumers, who collectively own and govern the community.",
   "description_zh": "LikeCoin 和讚賞公民共和國的介紹及文檔。讚賞公民共和國是一個由作者及內容消費者組成，並共同管治的分散式網絡社群。",
   "homepage": "https://docs.like.co/",
-  "thumbnail": "https://github.com/likecoin/dao/blob/master/.gitbook/assets/likecoin_presskit_likecoin_asset_likecoinfeature.png",
+  "thumbnail": "https://raw.githubusercontent.com/likecoin/dao/master/.gitbook/assets/likecoin_presskit_likecoin_asset_likecoinfeature.png",
   "document": "https://docs.like.co/",
   "repository": "https://github.com/likecoin/dao",
   "licenses": [
